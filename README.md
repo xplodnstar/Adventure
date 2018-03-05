@@ -8,8 +8,8 @@ You will be creating a text based game that will allow the player to make decisi
 
 After completing this assignment, you should…
 
-* Basic understanding of most javascript datatypes (numbers, strings, booleans, objects, arrays, and functions)
-* Understanding the use of operators for equality and assignment as well as control flow.
+* Have a basic understanding of most javascript datatypes (numbers, strings, booleans, objects, arrays, and functions)
+* Understand the use of operators for equality and assignment as well as control flow.
 
 ## Details
 
