@@ -1,4 +1,4 @@
-var open = 'A long time ago, in a galaxy far, far away, a reprogrammed Imerial Droid named K-2SO was partnered with Cassian Andor, a memeber of the Rebel Alliance. Together they need to find, rescue, and aid Jyn Erso find her father and get the information about a secret weapon the Empire has developed. However, Jyn is not one to trust easily and does not beleive she needs rescuing. Jyn acquires a blaster. Does K-2 try to take it away, or does Cassian let her keep it?'
+var open = 'A long time ago, in a galaxy far, far away, a reprogrammed Imperial Droid named K-2SO was partnered with Cassian Andor, a memeber of the Rebel Alliance. Together they need to find, rescue, and aid Jyn Erso find her father and get the information about a secret weapon the Empire has developed. However, Jyn is not one to trust easily and does not beleive she needs rescuing. Jyn acquires a blaster. Does K-2 try to take it away, or does Cassian let her keep it?'
 
 var take = 'K-2SO attemts to take the blaster fron Jyn. This results in him getting shot.'
 
