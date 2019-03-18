@@ -1,0 +1,7 @@
+html {box-sizing: border-box}
+*,*::before,*::after{box-sizing: inherit}
+
+body {
+    font-family: Impact, 'Arial Black', sans-serif;
+    background-image: url(./media/stargfield.jpg);
+}
